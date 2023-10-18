@@ -19,14 +19,13 @@ Udemy is a platform that allows instructors to build online courses on their pre
    * Courses can additionally be browsed by clicking on arrow buttons in a row of similar courses.
    * Results of searches can be sorted by multiple factors.
    
-   ![carousel movement](https://miro.medium.com/max/1400/1*GekW1j3Ln24BLArpkdu_HA.png)
+  
  
  
  * Cart
    * Students can add the courses to Cart, remove from cart. 
    * Apply coupon, Checkout.
    
-![search results](https://miro.medium.com/max/1400/1*RLbNYuITHTOSzVEd6W-mIQ.png)
 
 
 ## Technologies Used
